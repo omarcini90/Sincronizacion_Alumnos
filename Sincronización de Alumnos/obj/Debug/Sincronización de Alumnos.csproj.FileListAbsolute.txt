@@ -1,0 +1,13 @@
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\bin\Debug\Sincronización de Alumnos.exe.config
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\bin\Debug\Sincronización de Alumnos.exe
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\bin\Debug\Sincronización de Alumnos.pdb
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.csproj.CopyComplete
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.exe
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.pdb
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\bin\Debug\Sincronización de Alumnos.exe.manifest
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\bin\Debug\Sincronización de Alumnos.application
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.exe.manifest
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.application
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\momar\source\repos\Sincronización de Alumnos\Sincronización de Alumnos\obj\Debug\Sincronización de Alumnos.csprojAssemblyReference.cache
