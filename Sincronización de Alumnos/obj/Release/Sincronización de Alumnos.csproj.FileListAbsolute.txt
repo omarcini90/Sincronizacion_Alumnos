@@ -1,0 +1,35 @@
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Sincronización de Alumnos.exe.config
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Sincronización de Alumnos.exe.manifest
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Sincronización de Alumnos.application
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Sincronización de Alumnos.exe
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Sincronización de Alumnos.pdb
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Google.Protobuf.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\MySql.Data.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Oracle.DataAccess.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Renci.SshNet.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\System.Buffers.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\System.Memory.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Zstandard.Net.dll
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Google.Protobuf.pdb
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Google.Protobuf.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\MySql.Data.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\Renci.SshNet.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\System.Buffers.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\System.Memory.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.csprojAssemblyReference.cache
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.exe.manifest
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.application
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.csproj.CopyComplete
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.exe
+C:\Users\momar\Documents\GitHub\SAES\Repositorio\Servicios\Sincronizacion_Alumnos\Sincronización de Alumnos\obj\Release\Sincronización de Alumnos.pdb

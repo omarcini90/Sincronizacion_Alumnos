@@ -4,17 +4,17 @@
   <description asmv2:publisher="Apollo Global" asmv2:product="Sincronización de Alumnos" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Sincronización de Alumnos.exe.manifest" size="4229">
+    <dependentAssembly dependencyType="install" codebase="Sincronización de Alumnos.exe.manifest" size="12559">
       <assemblyIdentity name="Sincronización de Alumnos.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Ru2FXxanSH+BZEYEqK3S9g27WUY=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RuUzYzafsAct4rAA1QluTsULEcQ5F4pi3LCLTEYi8jw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
